@@ -5,6 +5,7 @@ import ReactDOM from 'react-dom';
 // Creating a basic Clock Component
 
 // The answers to each exercise are in the Answers.js file if you get stuck and need inspiration
+// https://reactjs.org/docs/state-and-lifecycle.html for more details
 
 // Exercise 1: Functional component to Class
 // 1 - turn functional component into class
